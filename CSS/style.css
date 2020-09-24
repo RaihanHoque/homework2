@@ -1,0 +1,106 @@
+.hola{
+    color: aqua;
+    background-color: red;
+}
+.hola2{
+    color: royalblue;
+    background-color: sienna;
+}
+.hola3{
+    color: violet;
+    background-color: yellow;
+}
+.eg{
+    color: yellow;
+    background-color: tomato;
+}
+.tr1{
+    color: wheat;
+    background-color: tomato;
+}
+.two{
+    color: springgreen;
+    background-color: violet;
+}
+.three{
+    color: chartreuse;
+    background-color: coral;
+    text-align: center;
+}
+.four{
+    color: cornflowerblue;
+    background-color: darkblue;
+    text-align: center;
+}
+.five{
+    color: darkorange;
+    background-color: deeppink;
+    text-align: center;
+}
+.six{
+    color: firebrick;
+    background-color: gold;
+    text-align: center;
+}
+.seven{
+    color: gray;
+    background-color: lightslategray;
+}
+.eight{
+    color: limegreen;
+    background-color: maroon;
+}
+.nine{
+    color: mediumorchid;
+    background-color: olivedrab;
+}
+.ten{
+    color: orange;
+    background-color: red;
+}
+.eleven{
+    color: rosybrown;
+    background-color: sienna;
+}
+.twelve{
+    color: sienna;
+    background-color: chocolate;
+}
+.thirteen{
+    color: crimson;
+    background-color: darkred;
+}
+.fourteen{
+    color: darkslategray;
+    background-color: lightpink;
+}
+.fifteen{
+    color: mediumvioletred;
+    background-color: palegoldenrod;
+}
+.sixteen{
+    color: paleturquoise;
+    background-color: purple;
+}
+.seventeen{
+    color: plum;
+    background-color: rebeccapurple;
+}
+.f1{
+    color: rosybrown;
+    background-color: saddlebrown;
+    text-align: center;
+}
+.f2{
+    color: salmon;
+    background-color: violet;
+    text-align: end;
+}
+.f3{
+    color: white;
+    background-color: royalblue;
+}
+.f4{
+    color: rgb(red, green, blue);
+    background-color: silver;
+}
